@@ -18,4 +18,4 @@ export default function getListStudents() {
         location: 'San Francisco',
       },
     ];
-}
+ }
